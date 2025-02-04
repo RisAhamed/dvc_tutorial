@@ -1,0 +1,4 @@
+[core]
+    remote = s3_file
+['remote "s3_file"']
+    url = ../s3
